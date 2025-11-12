@@ -7,3 +7,4 @@ requests==2.31.0
 
 
 
+gspread==6.1.2
